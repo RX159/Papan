@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -93,7 +93,7 @@ a {
 	width: 100%;
 	display: block;
 	clear: both;
-}	
+}
 h1, h3, h4, h5 {
 	font-size:24px;
 	line-height:125%;
@@ -106,12 +106,12 @@ h1, h3, h4, h5 {
 			width:100%;
 			background:#ffffff;
 			z-index:9998;
-            
+
             /*set animation */
             -webkit-transition: all 0.4s ease;
             transition: all 0.4s ease;
         }
-        
+
         header.sticky {
             position: fixed;
             background: #ffffff;
@@ -124,8 +124,8 @@ h1, h3, h4, h5 {
 	border-bottom:1px solid #dad5d5;
 	padding:10px 0;
 	text-align:right;
-	
-	
+
+
 }
 header.sticky .top{
 	display:none;
@@ -139,19 +139,19 @@ header.sticky .top{
 	font-size:20px;
 }
 .top li a:hover{
-	color:#7981c9;
+	color:#bdd8a2;
 	transition:all 0.5s;
 }
 .mainheader{
 	padding:20px 0;
-	
+
 	 /*set animation */
             -webkit-transition: all 0.4s ease;
             transition: all 0.4s ease;
 }
 header.sticky .mainheader{
 	padding:10px 0;
-} 
+}
 .mainheader .logo{
 	width:30%;
 	float:left;
@@ -176,7 +176,7 @@ header.sticky .mainheader{
 	text-transform:uppercase;
 }
 .mainheader nav ul li a:hover{
-	color:#7981c9;
+	color:#bdd8a2;
 	transition:all 0.5s;
 }
 .serach{
@@ -185,7 +185,7 @@ header.sticky .mainheader{
 
 /*----BANNER----*/
 #banner{
-	background:url(images/banner.jpg) no-repeat center center;
+	background:url(images/papan1.jpg) no-repeat center center;
 	min-height:770px;
 	display:block;
 	background-size:cover;
@@ -216,7 +216,7 @@ header.sticky .mainheader{
 	color:#ffffff;
 	font-size:22px;
 	font-weight:700;
-	background:#7981c9;
+	background:#bdd8a2;
 	display:block;
 	margin:80px auto 0;
 	border-radius:3px;
@@ -224,11 +224,11 @@ header.sticky .mainheader{
 }
 #banner a.btn:hover{
 	background:#ffffff;
-	color:#7981c9;
+	color:#bdd8a2;
 	transition:all 0.5s;
 }
 
-/*----ABOUT ROSEBUD----*/	
+/*----ABOUT ROSEBUD----*/
 #about{
 	padding:80px 0 70px;
 }
@@ -241,7 +241,7 @@ header.sticky .mainheader{
 .headeborder{
 	height:5px;
 	width:100px;
-	background:#7981c9;
+	background:#bdd8a2;
 	display:block;
 	margin:5px auto 0;
 }
@@ -258,7 +258,7 @@ header.sticky .mainheader{
 	width:80px;
 	border-radius:50%;
 	display:block;
-	background:#7981c9;
+	background:#bdd8a2;
 	font-size:40px;
 	color:#ffffff;
 	line-height:80px;
@@ -313,10 +313,10 @@ header.sticky .mainheader{
 }
 .middlesocial ul li a:hover{
 	transition:all 0.5s;
-	color:#7981c9;
+	color:#bdd8a2;
 }
-	
-/*----FOOD MENU----*/	
+
+/*----FOOD MENU----*/
 #menu{
 	padding:80px 0 0;
 }
@@ -335,7 +335,7 @@ header.sticky .mainheader{
 	.caption-style-1{
 		list-style-type: none;
 		margin: 0px;
-		padding: 0px;	
+		padding: 0px;
 	}
 	.caption-style-1 .imageeffect{
 		float: left;
@@ -402,7 +402,7 @@ header.sticky .mainheader{
 	.imagemargin{
 		margin-bottom:30px;
 	}
-	
+
 
 /*--JUST THE RIGHT FOOD--*/
 #food{
@@ -450,13 +450,13 @@ p.foodtext{
     width: 80px;
     border-radius: 50%;
     display: block;
-    background: #7981c9;
+    background: #bdd8a2;
     font-size: 40px;
 	font-weight:700;
     color: #ffffff;
     line-height: 80px;
     text-align: center;
-}	
+}
 .foodright h4{
 	font-size:18px;
 	line-height:22px;
@@ -476,7 +476,7 @@ p.foodtext{
 	background-size:cover;
 }
 .like{
-	background:#7981c9;
+	background:#bdd8a2;
 	height:300px;
 	text-align:center;
 	padding-top:60px;
@@ -500,7 +500,7 @@ p.foodtext{
 }
 
 
-/*----Get in touch----*/	
+/*----Get in touch----*/
 #contact{
 	padding:70px 0;
 	position:relative;
@@ -532,7 +532,7 @@ p.foodtext{
 	text-align:center;
 }
 .col a{
-	color:#7981c9;
+	color:#bdd8a2;
 	font-size:24px;
 	line-height:30px;
 	display:block;
@@ -587,7 +587,7 @@ p.foodtext{
 	display:block;
 	text-align:center;
 	margin:0 auto;
-	background:#7981c9;
+	background:#bdd8a2;
 	font-size:18px;
 	line-height:40px;
 	clear:both;
@@ -614,7 +614,7 @@ footer{
 	padding:15px 0;
 	background:#1b1b1b;
 	text-align:center;
-	
+
 }
 footer p{
 	font-size:18px;
@@ -626,14 +626,14 @@ footer p span{
 	line-height:30px;
 }
 footer p a{
-	color:#7981c9;
+	color:#bdd8a2;
 }
 footer p a:hover{
 	text-decoration:underline;
 	transition:all 0.5s;
 }
-	
-	
+
+
 
 /* New */
 
@@ -651,7 +651,7 @@ footer p a:hover{
 }
 
 /*Paste this css to your style sheet file or under head tag*/
-/* This only works with JavaScript, 
+/* This only works with JavaScript,
 if it's not present, don't show loader */
 .no-js #loader { display: none;  }
 .js #loader { display: block; position: absolute; left: 100px; top: 0; }
@@ -662,7 +662,6 @@ if it's not present, don't show loader */
  width: 100%;
  height: 100%;
  z-index: 9999;
- background: url(images/loader.svg) center no-repeat #7981c9;
- 
-}
+ background: url(images/bread.gif) center no-repeat #bdd8a2;
 
+}

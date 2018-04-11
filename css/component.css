@@ -37,7 +37,7 @@
 	padding:10px;
 }
 .sb-search-input:focus {
-	background:#7981c9;
+	background:#dad5d5;
 }
 .sb-search-input::-webkit-input-placeholder {
 	color: #fff;

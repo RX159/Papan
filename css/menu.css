@@ -139,7 +139,7 @@ a:hover {
 
 .nav-collapse a:active,
 .nav-collapse .active a {
-    color: #7981c9;
+    color: #dad5d5;
 }
 
 .nav-collapse ul ul a {
@@ -199,8 +199,3 @@ a:hover {
   font-size: 24px;
   content: "\78"; /* Close icon */
 }
-
-
-
-
-
